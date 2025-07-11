@@ -7,7 +7,7 @@
   <a href="https://github.com/Devloperameen"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
----
+
 
 ## 🧑‍💻 About Me
 
@@ -17,7 +17,7 @@
 - 📫 Reach me: **sadiqferej397@gmail.com**
 - 🌱 Always learning and open to new collaborations
 
----
+
 
 ## ⚒️ Tech Stack
 
@@ -38,7 +38,7 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 
----
+
 
 ## 🔥 Featured Projects
 
@@ -51,7 +51,7 @@
 
 > 💡 Add `Live Demo` links if your projects are deployed on Vercel, Render, Netlify.
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -60,7 +60,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devloperameen&layout=compact&theme=tokyonight" height="165">
 </p>
 
----
+
 
 ## 🌍 Connect with Me
 
@@ -68,9 +68,4 @@
 - 💼 **LinkedIn**: [Sadiq Ferej](https://www.linkedin.com/in/sadiq-ferej-18b4b4347)
 - 🧑‍💻 **GitHub**: [Devloperameen](https://github.com/Devloperameen)
 
----
 
-> 🔥 Do you want me to generate a stylish banner with your **photo and MERN logos** next?
-
-You can upload your photo or describe the style you want (color, theme, background).  
-Then I’ll design your **GitHub visual header** today.
